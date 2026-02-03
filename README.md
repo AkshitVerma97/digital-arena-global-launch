@@ -1,10 +1,6 @@
 # digital-arena-global-launch
 End-to-end project management framework for a $10M SaaS sports streaming platform. Covers Risk Management (GDPR), Agile Scheduling, and Cross-Cultural Resource Allocation.
 
-# digital-arena-global-launch
-End-to-end project management framework for a $10M SaaS sports streaming platform. Covers Risk Management (GDPR), Agile Scheduling, and Cross-Cultural Resource Allocation.
-
-
 # Digital Arena: Global Product Launch & Execution Framework
 ![PM](https://img.shields.io/badge/Strategy-Global_Project_Management-blue?style=for-the-badge)
 ![Method](https://img.shields.io/badge/Methodology-Hybrid_Agile_Waterfall-orange?style=for-the-badge)
